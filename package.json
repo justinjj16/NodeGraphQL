@@ -1,0 +1,23 @@
+{
+  "name": "graphql_work",
+  "version": "1.0.0",
+  "description": "node qraphql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinjj16/NodeGraphQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinjj16/NodeGraphQL/issues"
+  },
+  "homepage": "https://github.com/justinjj16/NodeGraphQL#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
